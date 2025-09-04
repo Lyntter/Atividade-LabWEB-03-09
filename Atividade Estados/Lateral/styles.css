@@ -37,8 +37,8 @@ nav a {
 }
 
 main {
+  margin-left: 250px;
   padding: 20px;
-  margin-top: 55px;
 }
 
 .dropdown {
